@@ -1,0 +1,8 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Program Files\\Apache Software Foundation\\Tomcat 9.0\\webapps\\crud\\connector\\mysql-connector-java-8.0.11.jar"
+    ]
+}
